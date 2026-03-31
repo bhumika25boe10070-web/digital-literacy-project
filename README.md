@@ -1,10 +1,11 @@
-digital-literacy-project
+Digital-literacy-project
 
 Name: BHUMIKA SHARMA 
 
 Registration Number:25BOE10070
 
 Branch: B.Tech BIOENGINEERING
+
 University: Vellore Institute Technology BHOPAL
 
 Project Overview
